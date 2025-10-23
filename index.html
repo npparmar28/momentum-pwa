@@ -4,8 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Momentum Stocks — PWA</title>
-  <link rel="manifest" href="manifest.json" />
+
+  <!-- Correct manifest path for GitHub Pages -->
+  <link rel="manifest" href="/momentum-pwa/manifest.json" />
   <meta name="theme-color" content="#0b5cff" />
+
   <style>
     body {
       font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, "Helvetica Neue", Arial;
@@ -21,10 +24,7 @@
       align-items: center;
       justify-content: space-between;
     }
-    h1 {
-      font-size: 18px;
-      margin: 0;
-    }
+    h1 { font-size: 18px; margin: 0; }
     #refreshBtn {
       background: white;
       color: #0b5cff;
@@ -35,27 +35,17 @@
       cursor: pointer;
       transition: all 0.2s ease-in-out;
     }
-    #refreshBtn:hover {
-      background: #e8ecff;
-    }
-    main {
-      padding: 12px 16px;
-    }
+    #refreshBtn:hover { background: #e8ecff; }
+    main { padding: 12px 16px; }
     .card {
       background: white;
       padding: 12px;
       margin-bottom: 10px;
       border-radius: 8px;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
+      box-shadow: 0 2px 6px rgba(0,0,0,.06);
     }
-    .sym {
-      font-weight: 700;
-      font-size: 15px;
-    }
-    .meta {
-      font-size: 13px;
-      color: #555;
-    }
+    .sym { font-weight: 700; font-size: 15px; }
+    .meta { font-size: 13px; color: #555; }
     .tag {
       display: inline-block;
       padding: 4px 6px;
@@ -66,13 +56,10 @@
       margin-left: 8px;
       font-size: 12px;
     }
-    #updatedAt {
-      font-size: 13px;
-      color: #555;
-      margin-bottom: 10px;
-    }
+    #updatedAt { font-size: 13px; color: #555; margin-bottom: 10px; }
   </style>
 </head>
+
 <body>
   <header>
     <div>
@@ -87,10 +74,14 @@
     <div id="list"></div>
   </main>
 
-  <script src="app.js"></script>
+  <script src="/momentum-pwa/app.js"></script>
+
+  <!-- Register service worker from the correct repo path -->
   <script>
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('service-worker.js').catch(console.error);
+      navigator.serviceWorker.register('/momentum-pwa/service-worker.js')
+        .then(() => console.log('Service Worker registered ✅'))
+        .catch(console.error);
     }
   </script>
 </body>
