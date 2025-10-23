@@ -1,31 +1,30 @@
-const CACHE_NAME = 'momentum-cache-v2';
+const CACHE_NAME = 'momentum-cache-v3';
+const BASE_PATH = '/momentum-pwa';
 const FILES_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/manifest.json',
-  '/service-worker.js'
+  `${BASE_PATH}/`,
+  `${BASE_PATH}/index.html`,
+  `${BASE_PATH}/app.js`,
+  `${BASE_PATH}/manifest.json`,
+  `${BASE_PATH}/service-worker.js`,
+  `${BASE_PATH}/data/trending.json`
 ];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(FILES_TO_CACHE))
-  );
+  event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(FILES_TO_CACHE)));
   self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then(keys =>
-      Promise.all(keys.map(k => (k === CACHE_NAME ? null : caches.delete(k))))
-    )
+    caches.keys().then(keys => Promise.all(keys.map(k => k === CACHE_NAME ? null : caches.delete(k))))
   );
   self.clients.claim();
 });
 
 self.addEventListener('fetch', (event) => {
   const { request } = event;
-  // network-first for trending.json
+
+  // Network-first for data file
   if (request.url.includes('/data/trending.json')) {
     event.respondWith(
       fetch(request)
@@ -38,7 +37,8 @@ self.addEventListener('fetch', (event) => {
     );
     return;
   }
-  // cache-first for everything else
+
+  // Cache-first for app shell
   event.respondWith(
     caches.match(request).then(cached => cached || fetch(request))
   );
