@@ -1,9 +1,9 @@
+// Correct path for GitHub Pages repo
+const JSON_PATH = '/momentum-pwa/data/trending.json';
+
 const refreshBtn = document.getElementById('refreshBtn');
 const updatedAt = document.getElementById('updatedAt');
 const list = document.getElementById('list');
-
-// 🔗 Path to JSON file (same repo)
-const JSON_PATH = 'data/trending.json';
 
 async function loadData(showLoader = true) {
   if (showLoader) {
@@ -21,9 +21,10 @@ async function loadData(showLoader = true) {
 }
 
 function render(data) {
-  updatedAt.textContent = 'Updated: ' + (data.generated_at_ist || data.generated_at_utc || '(unknown)');
+  const ts = data.generated_at_ist || data.generated_at_utc || data.generated_at;
+  updatedAt.textContent = 'Updated: ' + (ts ? new Date(ts).toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' }) : '(no timestamp)');
+  
   const arr = data.results || [];
-
   if (arr.length === 0) {
     list.innerHTML = `<div class="card">No data found yet.</div>`;
     return;
@@ -54,7 +55,6 @@ function render(data) {
   });
 }
 
-// 🌀 Refresh button — always clickable
 refreshBtn.addEventListener('click', () => {
   refreshBtn.disabled = true;
   refreshBtn.textContent = 'Refreshing...';
@@ -66,5 +66,4 @@ refreshBtn.addEventListener('click', () => {
   });
 });
 
-// Initial load
 loadData();
