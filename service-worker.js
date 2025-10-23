@@ -1,38 +1,45 @@
-const CACHE_NAME = 'momentum-v1';
-const FILES = [
+const CACHE_NAME = 'momentum-cache-v2';
+const FILES_TO_CACHE = [
   '/',
   '/index.html',
   '/app.js',
   '/manifest.json',
-  '/service-worker.js',
-  '/data/trending.json'
+  '/service-worker.js'
 ];
 
-self.addEventListener('install', evt => {
-  evt.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(FILES))
+self.addEventListener('install', (event) => {
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(cache => cache.addAll(FILES_TO_CACHE))
   );
   self.skipWaiting();
 });
 
-self.addEventListener('activate', evt => {
-  evt.waitUntil(self.clients.claim());
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(keys.map(k => (k === CACHE_NAME ? null : caches.delete(k))))
+    )
+  );
+  self.clients.claim();
 });
 
-self.addEventListener('fetch', evt => {
-  if (evt.request.method !== 'GET') return;
-  const url = new URL(evt.request.url);
-  // for JSON data, use network-first with fallback to cache
-  if (url.pathname.endsWith('/data/trending.json') || url.pathname.endsWith('trending.json')) {
-    evt.respondWith(
-      fetch(evt.request).then(resp => {
-        caches.open(CACHE_NAME).then(cache => cache.put(evt.request, resp.clone()));
-        return resp;
-      }).catch(() => caches.match(evt.request))
+self.addEventListener('fetch', (event) => {
+  const { request } = event;
+  // network-first for trending.json
+  if (request.url.includes('/data/trending.json')) {
+    event.respondWith(
+      fetch(request)
+        .then(resp => {
+          const clone = resp.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(request, clone));
+          return resp;
+        })
+        .catch(() => caches.match(request))
     );
     return;
   }
-  evt.respondWith(
-    caches.match(evt.request).then(cached => cached || fetch(evt.request))
+  // cache-first for everything else
+  event.respondWith(
+    caches.match(request).then(cached => cached || fetch(request))
   );
 });
