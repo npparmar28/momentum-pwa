@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2025-11-04T03:56:17.964947",
-  "generated_at_ist": "2025-11-04T09:29:39.587070",
+  "generated_at_utc": "2025-11-05T03:58:39.283815",
+  "generated_at_ist": "2025-11-05T09:31:55.851550",
   "google_trends": [],
   "results": [
     {
@@ -29,9 +29,9 @@
       "OpenPrice": 555.0,
       "%ChangePreOpen": 9.02,
       "Matched": false,
-      "LTP": 540,
+      "LTP": 535,
       "Volume": null,
-      "%FromOpen": -2.7
+      "%FromOpen": -3.6
     },
     {
       "Symbol": "GVPTECH",
@@ -39,9 +39,9 @@
       "OpenPrice": 10.3,
       "%ChangePreOpen": 8.19,
       "Matched": false,
-      "LTP": 9.77,
+      "LTP": 9.4,
       "Volume": null,
-      "%FromOpen": -5.15
+      "%FromOpen": -8.74
     },
     {
       "Symbol": "3MINDIA",
@@ -49,9 +49,9 @@
       "OpenPrice": 33060.0,
       "%ChangePreOpen": 7.69,
       "Matched": false,
-      "LTP": 34230,
+      "LTP": 35780,
       "Volume": null,
-      "%FromOpen": 3.54
+      "%FromOpen": 8.23
     },
     {
       "Symbol": "POWERINDIA",
@@ -59,9 +59,9 @@
       "OpenPrice": 19210.0,
       "%ChangePreOpen": 7.2,
       "Matched": false,
-      "LTP": 19292,
+      "LTP": 20341,
       "Volume": null,
-      "%FromOpen": 0.43
+      "%FromOpen": 5.89
     },
     {
       "Symbol": "GLOBALE",
@@ -69,9 +69,9 @@
       "OpenPrice": 13.48,
       "%ChangePreOpen": 7.07,
       "Matched": false,
-      "LTP": 13.04,
+      "LTP": 12.8,
       "Volume": null,
-      "%FromOpen": -3.26
+      "%FromOpen": -5.04
     },
     {
       "Symbol": "CUB",
@@ -79,9 +79,9 @@
       "OpenPrice": 251.0,
       "%ChangePreOpen": 6.34,
       "Matched": false,
-      "LTP": 251.31,
+      "LTP": 254.6,
       "Volume": null,
-      "%FromOpen": 0.12
+      "%FromOpen": 1.43
     },
     {
       "Symbol": "SALONA",
@@ -89,9 +89,9 @@
       "OpenPrice": 288.85,
       "%ChangePreOpen": 5.57,
       "Matched": false,
-      "LTP": 271.1,
+      "LTP": 271,
       "Volume": null,
-      "%FromOpen": -6.15
+      "%FromOpen": -6.18
     },
     {
       "Symbol": "MARINE",
@@ -99,9 +99,9 @@
       "OpenPrice": 254.0,
       "%ChangePreOpen": 5.46,
       "Matched": false,
-      "LTP": 249.4,
+      "LTP": 244,
       "Volume": null,
-      "%FromOpen": -1.81
+      "%FromOpen": -3.94
     },
     {
       "Symbol": "QUADFUTURE",
@@ -109,9 +109,9 @@
       "OpenPrice": 326.0,
       "%ChangePreOpen": 5.31,
       "Matched": false,
-      "LTP": 342,
+      "LTP": 330.95,
       "Volume": null,
-      "%FromOpen": 4.91
+      "%FromOpen": 1.52
     },
     {
       "Symbol": "ONELIFECAP",
@@ -129,9 +129,9 @@
       "OpenPrice": 42.74,
       "%ChangePreOpen": 5.27,
       "Matched": false,
-      "LTP": 41,
+      "LTP": 41.4,
       "Volume": null,
-      "%FromOpen": -4.07
+      "%FromOpen": -3.14
     },
     {
       "Symbol": "KEEPLEARN",
@@ -159,9 +159,9 @@
       "OpenPrice": 184.43,
       "%ChangePreOpen": 5.0,
       "Matched": false,
-      "LTP": 176,
+      "LTP": 184.43,
       "Volume": null,
-      "%FromOpen": -4.57
+      "%FromOpen": 0.0
     },
     {
       "Symbol": "SOMATEX",
@@ -179,9 +179,9 @@
       "OpenPrice": 238.63,
       "%ChangePreOpen": 5.0,
       "Matched": false,
-      "LTP": 236,
+      "LTP": 230.9,
       "Volume": null,
-      "%FromOpen": -1.1
+      "%FromOpen": -3.24
     },
     {
       "Symbol": "VISASTEEL",
@@ -189,9 +189,9 @@
       "OpenPrice": 70.35,
       "%ChangePreOpen": 5.0,
       "Matched": false,
-      "LTP": 70.35,
+      "LTP": 69,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -1.92
     },
     {
       "Symbol": "ISHANCH",
@@ -199,9 +199,9 @@
       "OpenPrice": 76.42,
       "%ChangePreOpen": 4.99,
       "Matched": false,
-      "LTP": 76,
+      "LTP": 76.28,
       "Volume": null,
-      "%FromOpen": -0.55
+      "%FromOpen": -0.18
     },
     {
       "Symbol": "REFRACTORY",
@@ -209,9 +209,9 @@
       "OpenPrice": 54.8,
       "%ChangePreOpen": 4.98,
       "Matched": false,
-      "LTP": 54.75,
+      "LTP": 54.8,
       "Volume": null,
-      "%FromOpen": -0.09
+      "%FromOpen": 0.0
     },
     {
       "Symbol": "SEYAIND",
@@ -229,9 +229,9 @@
       "OpenPrice": 932.9,
       "%ChangePreOpen": 4.9,
       "Matched": false,
-      "LTP": 921.5,
+      "LTP": 895.75,
       "Volume": null,
-      "%FromOpen": -1.22
+      "%FromOpen": -3.98
     },
     {
       "Symbol": "GAYAHWS",
@@ -269,9 +269,9 @@
       "OpenPrice": 1705.0,
       "%ChangePreOpen": 4.46,
       "Matched": false,
-      "LTP": 1725,
+      "LTP": 1729,
       "Volume": null,
-      "%FromOpen": 1.17
+      "%FromOpen": 1.41
     },
     {
       "Symbol": "DHARAN",
@@ -289,9 +289,9 @@
       "OpenPrice": 1560.0,
       "%ChangePreOpen": 4.24,
       "Matched": false,
-      "LTP": 1589.2,
+      "LTP": 1585,
       "Volume": null,
-      "%FromOpen": 1.87
+      "%FromOpen": 1.6
     },
     {
       "Symbol": "CHEMFAB",
@@ -299,9 +299,9 @@
       "OpenPrice": 615.0,
       "%ChangePreOpen": 4.19,
       "Matched": false,
-      "LTP": 585.7,
+      "LTP": 574.05,
       "Volume": null,
-      "%FromOpen": -4.76
+      "%FromOpen": -6.66
     },
     {
       "Symbol": "ACMESOLAR",
@@ -309,9 +309,9 @@
       "OpenPrice": 284.0,
       "%ChangePreOpen": 4.16,
       "Matched": false,
-      "LTP": 273.65,
+      "LTP": 272.6,
       "Volume": null,
-      "%FromOpen": -3.64
+      "%FromOpen": -4.01
     },
     {
       "Symbol": "EXXARO",
@@ -319,9 +319,9 @@
       "OpenPrice": 7.58,
       "%ChangePreOpen": 4.12,
       "Matched": false,
-      "LTP": 7.99,
+      "LTP": 8.63,
       "Volume": null,
-      "%FromOpen": 5.41
+      "%FromOpen": 13.85
     },
     {
       "Symbol": "GREENPOWER",
@@ -329,9 +329,9 @@
       "OpenPrice": 14.93,
       "%ChangePreOpen": 4.11,
       "Matched": false,
-      "LTP": 14.51,
+      "LTP": 14,
       "Volume": null,
-      "%FromOpen": -2.81
+      "%FromOpen": -6.23
     },
     {
       "Symbol": "MEGASOFT",
@@ -339,9 +339,9 @@
       "OpenPrice": 231.0,
       "%ChangePreOpen": 4.1,
       "Matched": false,
-      "LTP": 224.28,
+      "LTP": 221.26,
       "Volume": null,
-      "%FromOpen": -2.91
+      "%FromOpen": -4.22
     },
     {
       "Symbol": "THANGAMAYL",
@@ -349,9 +349,9 @@
       "OpenPrice": 2709.1,
       "%ChangePreOpen": 4.06,
       "Matched": false,
-      "LTP": 2890,
+      "LTP": 3033,
       "Volume": null,
-      "%FromOpen": 6.68
+      "%FromOpen": 11.96
     },
     {
       "Symbol": "DOLPHIN",
@@ -359,9 +359,9 @@
       "OpenPrice": 464.0,
       "%ChangePreOpen": 4.01,
       "Matched": false,
-      "LTP": 475,
+      "LTP": 412.6,
       "Volume": null,
-      "%FromOpen": 2.37
+      "%FromOpen": -11.08
     },
     {
       "Symbol": "UNITEDPOLY",
@@ -369,9 +369,9 @@
       "OpenPrice": 43.4,
       "%ChangePreOpen": 3.83,
       "Matched": false,
-      "LTP": 43.5,
+      "LTP": 43.89,
       "Volume": null,
-      "%FromOpen": 0.23
+      "%FromOpen": 1.13
     },
     {
       "Symbol": "JSLL",
@@ -379,9 +379,9 @@
       "OpenPrice": 801.95,
       "%ChangePreOpen": 3.82,
       "Matched": false,
-      "LTP": 786.9,
+      "LTP": 785.85,
       "Volume": null,
-      "%FromOpen": -1.88
+      "%FromOpen": -2.01
     },
     {
       "Symbol": "TFL",
@@ -399,9 +399,9 @@
       "OpenPrice": 889.0,
       "%ChangePreOpen": 3.75,
       "Matched": false,
-      "LTP": 899.65,
+      "LTP": 869.9,
       "Volume": null,
-      "%FromOpen": 1.2
+      "%FromOpen": -2.15
     },
     {
       "Symbol": "URAVIDEF",
@@ -409,9 +409,9 @@
       "OpenPrice": 243.45,
       "%ChangePreOpen": 3.75,
       "Matched": false,
-      "LTP": 241.57,
+      "LTP": 230.75,
       "Volume": null,
-      "%FromOpen": -0.77
+      "%FromOpen": -5.22
     },
     {
       "Symbol": "AUSOMENT",
@@ -419,9 +419,9 @@
       "OpenPrice": 109.0,
       "%ChangePreOpen": 3.75,
       "Matched": false,
-      "LTP": 105.79,
+      "LTP": 104.55,
       "Volume": null,
-      "%FromOpen": -2.94
+      "%FromOpen": -4.08
     },
     {
       "Symbol": "HECPROJECT",
@@ -429,9 +429,9 @@
       "OpenPrice": 142.0,
       "%ChangePreOpen": 3.59,
       "Matched": false,
-      "LTP": 136.56,
+      "LTP": 138,
       "Volume": null,
-      "%FromOpen": -3.83
+      "%FromOpen": -2.82
     },
     {
       "Symbol": "S&SPOWER",
@@ -449,9 +449,9 @@
       "OpenPrice": 474.9,
       "%ChangePreOpen": 3.34,
       "Matched": false,
-      "LTP": 464.95,
+      "LTP": 436.7,
       "Volume": null,
-      "%FromOpen": -2.1
+      "%FromOpen": -8.04
     },
     {
       "Symbol": "ADROITINFO",
@@ -459,9 +459,9 @@
       "OpenPrice": 11.85,
       "%ChangePreOpen": 3.31,
       "Matched": false,
-      "LTP": 11.56,
+      "LTP": 11.44,
       "Volume": null,
-      "%FromOpen": -2.45
+      "%FromOpen": -3.46
     },
     {
       "Symbol": "PARASPETRO",
@@ -469,9 +469,9 @@
       "OpenPrice": 2.19,
       "%ChangePreOpen": 3.3,
       "Matched": false,
-      "LTP": 2.18,
+      "LTP": 2.15,
       "Volume": null,
-      "%FromOpen": -0.46
+      "%FromOpen": -1.83
     },
     {
       "Symbol": "SAGARDEEP",
@@ -489,9 +489,9 @@
       "OpenPrice": 314.9,
       "%ChangePreOpen": 3.23,
       "Matched": false,
-      "LTP": 309.05,
+      "LTP": 306.6,
       "Volume": null,
-      "%FromOpen": -1.86
+      "%FromOpen": -2.64
     },
     {
       "Symbol": "ROLTA",
@@ -509,9 +509,9 @@
       "OpenPrice": 19.17,
       "%ChangePreOpen": 3.06,
       "Matched": false,
-      "LTP": 18.97,
+      "LTP": 17.85,
       "Volume": null,
-      "%FromOpen": -1.04
+      "%FromOpen": -6.89
     },
     {
       "Symbol": "LATTEYS",
@@ -519,9 +519,9 @@
       "OpenPrice": 30.35,
       "%ChangePreOpen": 3.02,
       "Matched": false,
-      "LTP": 29.8,
+      "LTP": 29.15,
       "Volume": null,
-      "%FromOpen": -1.81
+      "%FromOpen": -3.95
     },
     {
       "Symbol": "MADHUCON",
@@ -529,9 +529,9 @@
       "OpenPrice": 7.32,
       "%ChangePreOpen": 2.95,
       "Matched": false,
-      "LTP": 7.03,
+      "LTP": 7.08,
       "Volume": null,
-      "%FromOpen": -3.96
+      "%FromOpen": -3.28
     },
     {
       "Symbol": "OAL",
@@ -539,9 +539,9 @@
       "OpenPrice": 357.3,
       "%ChangePreOpen": 2.94,
       "Matched": false,
-      "LTP": 348.7,
+      "LTP": 344,
       "Volume": null,
-      "%FromOpen": -2.41
+      "%FromOpen": -3.72
     },
     {
       "Symbol": "SILGO",
@@ -549,9 +549,9 @@
       "OpenPrice": 70.0,
       "%ChangePreOpen": 2.91,
       "Matched": false,
-      "LTP": 67.13,
+      "LTP": 68.4,
       "Volume": null,
-      "%FromOpen": -4.1
+      "%FromOpen": -2.29
     },
     {
       "Symbol": "TVSHLTD",
@@ -559,9 +559,9 @@
       "OpenPrice": 15496.0,
       "%ChangePreOpen": 2.88,
       "Matched": false,
-      "LTP": 15137,
+      "LTP": 15183,
       "Volume": null,
-      "%FromOpen": -2.32
+      "%FromOpen": -2.02
     },
     {
       "Symbol": "RITES",
@@ -569,9 +569,9 @@
       "OpenPrice": 255.0,
       "%ChangePreOpen": 2.87,
       "Matched": false,
-      "LTP": 251.69,
+      "LTP": 246.5,
       "Volume": null,
-      "%FromOpen": -1.3
+      "%FromOpen": -3.33
     },
     {
       "Symbol": "TERASOFT",
@@ -579,9 +579,9 @@
       "OpenPrice": 546.0,
       "%ChangePreOpen": 2.84,
       "Matched": false,
-      "LTP": 557,
+      "LTP": 557.4,
       "Volume": null,
-      "%FromOpen": 2.01
+      "%FromOpen": 2.09
     },
     {
       "Symbol": "MAHASTEEL",
@@ -589,9 +589,9 @@
       "OpenPrice": 619.0,
       "%ChangePreOpen": 2.84,
       "Matched": false,
-      "LTP": 606.3,
+      "LTP": 609.75,
       "Volume": null,
-      "%FromOpen": -2.05
+      "%FromOpen": -1.49
     },
     {
       "Symbol": "KODYTECH",
@@ -599,9 +599,9 @@
       "OpenPrice": 699.0,
       "%ChangePreOpen": 2.82,
       "Matched": false,
-      "LTP": 714.95,
+      "LTP": 709.9,
       "Volume": null,
-      "%FromOpen": 2.28
+      "%FromOpen": 1.56
     },
     {
       "Symbol": "KAUSHALYA",
@@ -609,9 +609,9 @@
       "OpenPrice": 1033.0,
       "%ChangePreOpen": 2.75,
       "Matched": false,
-      "LTP": 1033,
+      "LTP": 1000.3,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -3.17
     },
     {
       "Symbol": "SIGMA",
@@ -619,9 +619,9 @@
       "OpenPrice": 59.8,
       "%ChangePreOpen": 2.71,
       "Matched": false,
-      "LTP": 58.6,
+      "LTP": 57.2,
       "Volume": null,
-      "%FromOpen": -2.01
+      "%FromOpen": -4.35
     },
     {
       "Symbol": "FLFL",
@@ -629,9 +629,9 @@
       "OpenPrice": 1.55,
       "%ChangePreOpen": 2.65,
       "Matched": false,
-      "LTP": 1.55,
+      "LTP": 1.54,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -0.65
     },
     {
       "Symbol": "NAGREEKEXP",
@@ -639,9 +639,9 @@
       "OpenPrice": 30.2,
       "%ChangePreOpen": 2.65,
       "Matched": false,
-      "LTP": 29.95,
+      "LTP": 28.9,
       "Volume": null,
-      "%FromOpen": -0.83
+      "%FromOpen": -4.3
     },
     {
       "Symbol": "RELCHEMQ",
@@ -649,9 +649,9 @@
       "OpenPrice": 157.6,
       "%ChangePreOpen": 2.58,
       "Matched": false,
-      "LTP": 156.82,
+      "LTP": 154,
       "Volume": null,
-      "%FromOpen": -0.49
+      "%FromOpen": -2.28
     },
     {
       "Symbol": "AMNPLST",
@@ -659,9 +659,9 @@
       "OpenPrice": 219.99,
       "%ChangePreOpen": 2.52,
       "Matched": false,
-      "LTP": 219.99,
+      "LTP": 212.65,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -3.34
     },
     {
       "Symbol": "ANIKINDS",
@@ -669,9 +669,9 @@
       "OpenPrice": 77.0,
       "%ChangePreOpen": 2.52,
       "Matched": false,
-      "LTP": 76.37,
+      "LTP": 76.4,
       "Volume": null,
-      "%FromOpen": -0.82
+      "%FromOpen": -0.78
     },
     {
       "Symbol": "HARRMALAYA",
@@ -679,9 +679,9 @@
       "OpenPrice": 202.8,
       "%ChangePreOpen": 2.5,
       "Matched": false,
-      "LTP": 200.24,
+      "LTP": 193.9,
       "Volume": null,
-      "%FromOpen": -1.26
+      "%FromOpen": -4.39
     },
     {
       "Symbol": "ORIENTTECH",
@@ -689,9 +689,9 @@
       "OpenPrice": 483.65,
       "%ChangePreOpen": 2.48,
       "Matched": false,
-      "LTP": 480.5,
+      "LTP": 469.6,
       "Volume": null,
-      "%FromOpen": -0.65
+      "%FromOpen": -2.9
     },
     {
       "Symbol": "BTML",
@@ -699,9 +699,9 @@
       "OpenPrice": 8.34,
       "%ChangePreOpen": 2.46,
       "Matched": false,
-      "LTP": 8.28,
+      "LTP": 8.05,
       "Volume": null,
-      "%FromOpen": -0.72
+      "%FromOpen": -3.48
     },
     {
       "Symbol": "AMJLAND",
@@ -709,9 +709,9 @@
       "OpenPrice": 54.4,
       "%ChangePreOpen": 2.45,
       "Matched": false,
-      "LTP": 53.71,
+      "LTP": 52.5,
       "Volume": null,
-      "%FromOpen": -1.27
+      "%FromOpen": -3.49
     },
     {
       "Symbol": "INDUSTOWER",
@@ -719,9 +719,9 @@
       "OpenPrice": 392.0,
       "%ChangePreOpen": 2.42,
       "Matched": false,
-      "LTP": 392.85,
+      "LTP": 392.3,
       "Volume": null,
-      "%FromOpen": 0.22
+      "%FromOpen": 0.08
     },
     {
       "Symbol": "PNC",
@@ -729,9 +729,9 @@
       "OpenPrice": 29.7,
       "%ChangePreOpen": 2.41,
       "Matched": false,
-      "LTP": 29.7,
+      "LTP": 27.95,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -5.89
     },
     {
       "Symbol": "WIPL",
@@ -739,9 +739,9 @@
       "OpenPrice": 177.0,
       "%ChangePreOpen": 2.4,
       "Matched": false,
-      "LTP": 170.46,
+      "LTP": 171,
       "Volume": null,
-      "%FromOpen": -3.69
+      "%FromOpen": -3.39
     },
     {
       "Symbol": "ASIANENE",
@@ -749,9 +749,9 @@
       "OpenPrice": 340.4,
       "%ChangePreOpen": 2.36,
       "Matched": false,
-      "LTP": 350.5,
+      "LTP": 343.65,
       "Volume": null,
-      "%FromOpen": 2.97
+      "%FromOpen": 0.95
     },
     {
       "Symbol": "YUKEN",
@@ -759,9 +759,9 @@
       "OpenPrice": 987.0,
       "%ChangePreOpen": 2.35,
       "Matched": false,
-      "LTP": 973.85,
+      "LTP": 952,
       "Volume": null,
-      "%FromOpen": -1.33
+      "%FromOpen": -3.55
     },
     {
       "Symbol": "DHUNINV",
@@ -769,9 +769,9 @@
       "OpenPrice": 1423.6,
       "%ChangePreOpen": 2.31,
       "Matched": false,
-      "LTP": 1410.3,
+      "LTP": 1389.3,
       "Volume": null,
-      "%FromOpen": -0.93
+      "%FromOpen": -2.41
     },
     {
       "Symbol": "SHAHALLOYS",
@@ -779,9 +779,9 @@
       "OpenPrice": 78.0,
       "%ChangePreOpen": 2.31,
       "Matched": false,
-      "LTP": 78.44,
+      "LTP": 80.05,
       "Volume": null,
-      "%FromOpen": 0.56
+      "%FromOpen": 2.63
     },
     {
       "Symbol": "SITINET",
@@ -789,9 +789,9 @@
       "OpenPrice": 0.45,
       "%ChangePreOpen": 2.27,
       "Matched": false,
-      "LTP": 0.44,
+      "LTP": 0.45,
       "Volume": null,
-      "%FromOpen": -2.22
+      "%FromOpen": 0.0
     },
     {
       "Symbol": "SMARTWORKS",
@@ -799,9 +799,9 @@
       "OpenPrice": 607.7,
       "%ChangePreOpen": 2.26,
       "Matched": false,
-      "LTP": 598.3,
+      "LTP": 609,
       "Volume": null,
-      "%FromOpen": -1.55
+      "%FromOpen": 0.21
     },
     {
       "Symbol": "ASTRON",
@@ -809,9 +809,9 @@
       "OpenPrice": 10.43,
       "%ChangePreOpen": 2.25,
       "Matched": false,
-      "LTP": 10.34,
+      "LTP": 10.07,
       "Volume": null,
-      "%FromOpen": -0.86
+      "%FromOpen": -3.45
     },
     {
       "Symbol": "IZMO",
@@ -829,9 +829,9 @@
       "OpenPrice": 224.95,
       "%ChangePreOpen": 2.25,
       "Matched": false,
-      "LTP": 222.95,
+      "LTP": 219.05,
       "Volume": null,
-      "%FromOpen": -0.89
+      "%FromOpen": -2.62
     },
     {
       "Symbol": "SARTELE",
@@ -839,9 +839,9 @@
       "OpenPrice": 180.0,
       "%ChangePreOpen": 2.24,
       "Matched": false,
-      "LTP": 178.45,
+      "LTP": 180,
       "Volume": null,
-      "%FromOpen": -0.86
+      "%FromOpen": 0.0
     },
     {
       "Symbol": "AIROLAM",
@@ -849,9 +849,9 @@
       "OpenPrice": 105.55,
       "%ChangePreOpen": 2.24,
       "Matched": false,
-      "LTP": 105.99,
+      "LTP": 105.69,
       "Volume": null,
-      "%FromOpen": 0.42
+      "%FromOpen": 0.13
     },
     {
       "Symbol": "ZEELEARN",
@@ -859,9 +859,9 @@
       "OpenPrice": 8.66,
       "%ChangePreOpen": 2.24,
       "Matched": false,
-      "LTP": 8.57,
+      "LTP": 8.5,
       "Volume": null,
-      "%FromOpen": -1.04
+      "%FromOpen": -1.85
     },
     {
       "Symbol": "HIGREEN",
@@ -869,9 +869,9 @@
       "OpenPrice": 197.4,
       "%ChangePreOpen": 2.23,
       "Matched": false,
-      "LTP": 195,
+      "LTP": 188.5,
       "Volume": null,
-      "%FromOpen": -1.22
+      "%FromOpen": -4.51
     },
     {
       "Symbol": "CHEMBONDCH",
@@ -879,9 +879,9 @@
       "OpenPrice": 159.45,
       "%ChangePreOpen": 2.21,
       "Matched": false,
-      "LTP": 157.27,
+      "LTP": 153.38,
       "Volume": null,
-      "%FromOpen": -1.37
+      "%FromOpen": -3.81
     },
     {
       "Symbol": "SHYAMCENT",
@@ -889,9 +889,9 @@
       "OpenPrice": 6.98,
       "%ChangePreOpen": 2.2,
       "Matched": false,
-      "LTP": 6.84,
+      "LTP": 6.8,
       "Volume": null,
-      "%FromOpen": -2.01
+      "%FromOpen": -2.58
     },
     {
       "Symbol": "SHAH",
@@ -899,9 +899,9 @@
       "OpenPrice": 4.66,
       "%ChangePreOpen": 2.19,
       "Matched": false,
-      "LTP": 4.65,
+      "LTP": 4.47,
       "Volume": null,
-      "%FromOpen": -0.21
+      "%FromOpen": -4.08
     },
     {
       "Symbol": "ESSENTIA",
@@ -909,9 +909,9 @@
       "OpenPrice": 1.88,
       "%ChangePreOpen": 2.17,
       "Matched": false,
-      "LTP": 1.86,
+      "LTP": 1.79,
       "Volume": null,
-      "%FromOpen": -1.06
+      "%FromOpen": -4.79
     },
     {
       "Symbol": "SOMICONVEY",
@@ -919,9 +919,9 @@
       "OpenPrice": 159.5,
       "%ChangePreOpen": 2.17,
       "Matched": false,
-      "LTP": 157.79,
+      "LTP": 157.71,
       "Volume": null,
-      "%FromOpen": -1.07
+      "%FromOpen": -1.12
     },
     {
       "Symbol": "BELLACASA",
@@ -929,9 +929,9 @@
       "OpenPrice": 449.9,
       "%ChangePreOpen": 2.12,
       "Matched": false,
-      "LTP": 446.45,
+      "LTP": 457.5,
       "Volume": null,
-      "%FromOpen": -0.77
+      "%FromOpen": 1.69
     },
     {
       "Symbol": "ONEPOINT",
@@ -939,9 +939,9 @@
       "OpenPrice": 49.95,
       "%ChangePreOpen": 2.11,
       "Matched": false,
-      "LTP": 49.5,
+      "LTP": 49.16,
       "Volume": null,
-      "%FromOpen": -0.9
+      "%FromOpen": -1.58
     },
     {
       "Symbol": "UYFINCORP",
@@ -949,9 +949,9 @@
       "OpenPrice": 15.8,
       "%ChangePreOpen": 2.07,
       "Matched": false,
-      "LTP": 15.66,
+      "LTP": 14.9,
       "Volume": null,
-      "%FromOpen": -0.89
+      "%FromOpen": -5.7
     },
     {
       "Symbol": "ACL",
@@ -959,9 +959,9 @@
       "OpenPrice": 73.49,
       "%ChangePreOpen": 2.04,
       "Matched": false,
-      "LTP": 71.37,
+      "LTP": 73,
       "Volume": null,
-      "%FromOpen": -2.88
+      "%FromOpen": -0.67
     },
     {
       "Symbol": "LOKESHMACH",
@@ -969,9 +969,9 @@
       "OpenPrice": 192.6,
       "%ChangePreOpen": 2.04,
       "Matched": false,
-      "LTP": 189.91,
+      "LTP": 186.4,
       "Volume": null,
-      "%FromOpen": -1.4
+      "%FromOpen": -3.22
     },
     {
       "Symbol": "KAMOPAINTS",
@@ -979,9 +979,9 @@
       "OpenPrice": 8.13,
       "%ChangePreOpen": 2.01,
       "Matched": false,
-      "LTP": 8,
+      "LTP": 8.1,
       "Volume": null,
-      "%FromOpen": -1.6
+      "%FromOpen": -0.37
     },
     {
       "Symbol": "ABINFRA",
@@ -989,9 +989,9 @@
       "OpenPrice": 20.0,
       "%ChangePreOpen": 1.99,
       "Matched": false,
-      "LTP": 19.85,
+      "LTP": 19.35,
       "Volume": null,
-      "%FromOpen": -0.75
+      "%FromOpen": -3.25
     },
     {
       "Symbol": "IDEA",
@@ -999,9 +999,9 @@
       "OpenPrice": 9.73,
       "%ChangePreOpen": 1.99,
       "Matched": false,
-      "LTP": 9.64,
+      "LTP": 9.38,
       "Volume": null,
-      "%FromOpen": -0.92
+      "%FromOpen": -3.6
     },
     {
       "Symbol": "NGIL",
@@ -1009,9 +1009,9 @@
       "OpenPrice": 30.35,
       "%ChangePreOpen": 1.98,
       "Matched": false,
-      "LTP": 30.09,
+      "LTP": 29.11,
       "Volume": null,
-      "%FromOpen": -0.86
+      "%FromOpen": -4.09
     },
     {
       "Symbol": "MONEYBOXX",
@@ -1019,9 +1019,9 @@
       "OpenPrice": 165.0,
       "%ChangePreOpen": 1.98,
       "Matched": false,
-      "LTP": 162.25,
+      "LTP": 161.05,
       "Volume": null,
-      "%FromOpen": -1.67
+      "%FromOpen": -2.39
     },
     {
       "Symbol": "SYSTMTXC",
@@ -1029,9 +1029,9 @@
       "OpenPrice": 163.5,
       "%ChangePreOpen": 1.97,
       "Matched": false,
-      "LTP": 173.81,
+      "LTP": 164.3,
       "Volume": null,
-      "%FromOpen": 6.31
+      "%FromOpen": 0.49
     },
     {
       "Symbol": "DCM",
@@ -1039,9 +1039,9 @@
       "OpenPrice": 93.8,
       "%ChangePreOpen": 1.96,
       "Matched": false,
-      "LTP": 91.74,
+      "LTP": 92,
       "Volume": null,
-      "%FromOpen": -2.2
+      "%FromOpen": -1.92
     },
     {
       "Symbol": "USK",
@@ -1049,9 +1049,9 @@
       "OpenPrice": 26.48,
       "%ChangePreOpen": 1.96,
       "Matched": false,
-      "LTP": 26.07,
+      "LTP": 26.29,
       "Volume": null,
-      "%FromOpen": -1.55
+      "%FromOpen": -0.72
     },
     {
       "Symbol": "DBEIL",
@@ -1059,9 +1059,9 @@
       "OpenPrice": 150.0,
       "%ChangePreOpen": 1.95,
       "Matched": false,
-      "LTP": 148.59,
+      "LTP": 147,
       "Volume": null,
-      "%FromOpen": -0.94
+      "%FromOpen": -2.0
     },
     {
       "Symbol": "RAJRILTD",
@@ -1069,9 +1069,9 @@
       "OpenPrice": 25.15,
       "%ChangePreOpen": 1.95,
       "Matched": false,
-      "LTP": 25.03,
+      "LTP": 24.31,
       "Volume": null,
-      "%FromOpen": -0.48
+      "%FromOpen": -3.34
     },
     {
       "Symbol": "NIBE",
@@ -1079,9 +1079,9 @@
       "OpenPrice": 1215.0,
       "%ChangePreOpen": 1.94,
       "Matched": false,
-      "LTP": 1202.8,
+      "LTP": 1190,
       "Volume": null,
-      "%FromOpen": -1.0
+      "%FromOpen": -2.06
     },
     {
       "Symbol": "SUTLEJTEX",
@@ -1089,9 +1089,9 @@
       "OpenPrice": 35.7,
       "%ChangePreOpen": 1.94,
       "Matched": false,
-      "LTP": 35.61,
+      "LTP": 35.85,
       "Volume": null,
-      "%FromOpen": -0.25
+      "%FromOpen": 0.42
     },
     {
       "Symbol": "SHEMAROO",
@@ -1099,9 +1099,9 @@
       "OpenPrice": 115.2,
       "%ChangePreOpen": 1.93,
       "Matched": false,
-      "LTP": 114,
+      "LTP": 112.19,
       "Volume": null,
-      "%FromOpen": -1.04
+      "%FromOpen": -2.61
     },
     {
       "Symbol": "BHARATSE",
@@ -1109,9 +1109,9 @@
       "OpenPrice": 213.0,
       "%ChangePreOpen": 1.92,
       "Matched": false,
-      "LTP": 208.57,
+      "LTP": 210,
       "Volume": null,
-      "%FromOpen": -2.08
+      "%FromOpen": -1.41
     },
     {
       "Symbol": "FOCUS",
@@ -1119,9 +1119,9 @@
       "OpenPrice": 86.77,
       "%ChangePreOpen": 1.91,
       "Matched": false,
-      "LTP": 85.32,
+      "LTP": 84.27,
       "Volume": null,
-      "%FromOpen": -1.67
+      "%FromOpen": -2.88
     },
     {
       "Symbol": "RPPL",
@@ -1129,9 +1129,9 @@
       "OpenPrice": 19.7,
       "%ChangePreOpen": 1.91,
       "Matched": false,
-      "LTP": 19.34,
+      "LTP": 19.35,
       "Volume": null,
-      "%FromOpen": -1.83
+      "%FromOpen": -1.78
     },
     {
       "Symbol": "ODIGMA",
@@ -1139,9 +1139,9 @@
       "OpenPrice": 39.49,
       "%ChangePreOpen": 1.91,
       "Matched": false,
-      "LTP": 38.6,
+      "LTP": 37.9,
       "Volume": null,
-      "%FromOpen": -2.25
+      "%FromOpen": -4.03
     },
     {
       "Symbol": "ORCHPHARMA",
@@ -1149,9 +1149,9 @@
       "OpenPrice": 785.0,
       "%ChangePreOpen": 1.9,
       "Matched": false,
-      "LTP": 777.5,
+      "LTP": 789.95,
       "Volume": null,
-      "%FromOpen": -0.96
+      "%FromOpen": 0.63
     },
     {
       "Symbol": "DNAMEDIA",
@@ -1159,9 +1159,9 @@
       "OpenPrice": 4.29,
       "%ChangePreOpen": 1.9,
       "Matched": false,
-      "LTP": 4.27,
+      "LTP": 4.24,
       "Volume": null,
-      "%FromOpen": -0.47
+      "%FromOpen": -1.17
     },
     {
       "Symbol": "TOKYOPLAST",
@@ -1169,9 +1169,9 @@
       "OpenPrice": 126.9,
       "%ChangePreOpen": 1.89,
       "Matched": false,
-      "LTP": 126.7,
+      "LTP": 124.55,
       "Volume": null,
-      "%FromOpen": -0.16
+      "%FromOpen": -1.85
     },
     {
       "Symbol": "OCCLLTD",
@@ -1179,9 +1179,9 @@
       "OpenPrice": 118.02,
       "%ChangePreOpen": 1.87,
       "Matched": false,
-      "LTP": 115.04,
+      "LTP": 113.5,
       "Volume": null,
-      "%FromOpen": -2.52
+      "%FromOpen": -3.83
     },
     {
       "Symbol": "OSWALAGRO",
@@ -1189,9 +1189,9 @@
       "OpenPrice": 80.69,
       "%ChangePreOpen": 1.87,
       "Matched": false,
-      "LTP": 80.48,
+      "LTP": 77.2,
       "Volume": null,
-      "%FromOpen": -0.26
+      "%FromOpen": -4.33
     },
     {
       "Symbol": "LAKSHYA",
@@ -1199,9 +1199,9 @@
       "OpenPrice": 152.5,
       "%ChangePreOpen": 1.87,
       "Matched": false,
-      "LTP": 150.1,
+      "LTP": 136.8,
       "Volume": null,
-      "%FromOpen": -1.57
+      "%FromOpen": -10.3
     },
     {
       "Symbol": "DIGIDRIVE",
@@ -1209,9 +1209,9 @@
       "OpenPrice": 29.2,
       "%ChangePreOpen": 1.85,
       "Matched": false,
-      "LTP": 28.22,
+      "LTP": 28.7,
       "Volume": null,
-      "%FromOpen": -3.36
+      "%FromOpen": -1.71
     },
     {
       "Symbol": "AURIONPRO",
@@ -1219,9 +1219,9 @@
       "OpenPrice": 1239.9,
       "%ChangePreOpen": 1.85,
       "Matched": false,
-      "LTP": 1205,
+      "LTP": 1186.5,
       "Volume": null,
-      "%FromOpen": -2.81
+      "%FromOpen": -4.31
     },
     {
       "Symbol": "AURIGROW",
@@ -1239,9 +1239,9 @@
       "OpenPrice": 33.73,
       "%ChangePreOpen": 1.81,
       "Matched": false,
-      "LTP": 33,
+      "LTP": 32.52,
       "Volume": null,
-      "%FromOpen": -2.16
+      "%FromOpen": -3.59
     },
     {
       "Symbol": "NOIDATOLL",
@@ -1249,9 +1249,9 @@
       "OpenPrice": 4.5,
       "%ChangePreOpen": 1.81,
       "Matched": false,
-      "LTP": 4.41,
+      "LTP": 4.36,
       "Volume": null,
-      "%FromOpen": -2.0
+      "%FromOpen": -3.11
     },
     {
       "Symbol": "SHRADHA",
@@ -1259,9 +1259,9 @@
       "OpenPrice": 45.0,
       "%ChangePreOpen": 1.81,
       "Matched": false,
-      "LTP": 44.38,
+      "LTP": 44.2,
       "Volume": null,
-      "%FromOpen": -1.38
+      "%FromOpen": -1.78
     },
     {
       "Symbol": "FISCHER",
@@ -1269,9 +1269,9 @@
       "OpenPrice": 109.0,
       "%ChangePreOpen": 1.8,
       "Matched": false,
-      "LTP": 103.26,
+      "LTP": 93.9,
       "Volume": null,
-      "%FromOpen": -5.27
+      "%FromOpen": -13.85
     },
     {
       "Symbol": "BALAXI",
@@ -1279,9 +1279,9 @@
       "OpenPrice": 43.85,
       "%ChangePreOpen": 1.79,
       "Matched": false,
-      "LTP": 42.78,
+      "LTP": 42.56,
       "Volume": null,
-      "%FromOpen": -2.44
+      "%FromOpen": -2.94
     },
     {
       "Symbol": "IFBAGRO",
@@ -1289,9 +1289,9 @@
       "OpenPrice": 1470.0,
       "%ChangePreOpen": 1.77,
       "Matched": false,
-      "LTP": 1449.9,
+      "LTP": 1431.4,
       "Volume": null,
-      "%FromOpen": -1.37
+      "%FromOpen": -2.63
     },
     {
       "Symbol": "HCL-INSYS",
@@ -1299,9 +1299,9 @@
       "OpenPrice": 16.1,
       "%ChangePreOpen": 1.77,
       "Matched": false,
-      "LTP": 15.95,
+      "LTP": 15.83,
       "Volume": null,
-      "%FromOpen": -0.93
+      "%FromOpen": -1.68
     },
     {
       "Symbol": "TRIGYN",
@@ -1309,9 +1309,9 @@
       "OpenPrice": 77.48,
       "%ChangePreOpen": 1.75,
       "Matched": false,
-      "LTP": 75.25,
+      "LTP": 74.89,
       "Volume": null,
-      "%FromOpen": -2.88
+      "%FromOpen": -3.34
     },
     {
       "Symbol": "KRISHNADEF",
@@ -1319,9 +1319,9 @@
       "OpenPrice": 808.95,
       "%ChangePreOpen": 1.75,
       "Matched": false,
-      "LTP": 802,
+      "LTP": 784,
       "Volume": null,
-      "%FromOpen": -0.86
+      "%FromOpen": -3.08
     },
     {
       "Symbol": "SAKUMA",
@@ -1329,9 +1329,9 @@
       "OpenPrice": 2.93,
       "%ChangePreOpen": 1.74,
       "Matched": false,
-      "LTP": 2.9,
+      "LTP": 2.78,
       "Volume": null,
-      "%FromOpen": -1.02
+      "%FromOpen": -5.12
     },
     {
       "Symbol": "ADVANIHOTR",
@@ -1339,9 +1339,9 @@
       "OpenPrice": 58.87,
       "%ChangePreOpen": 1.73,
       "Matched": false,
-      "LTP": 58.2,
+      "LTP": 58.25,
       "Volume": null,
-      "%FromOpen": -1.14
+      "%FromOpen": -1.05
     },
     {
       "Symbol": "VARDMNPOLY",
@@ -1349,9 +1349,9 @@
       "OpenPrice": 8.36,
       "%ChangePreOpen": 1.7,
       "Matched": false,
-      "LTP": 8.01,
+      "LTP": 7.78,
       "Volume": null,
-      "%FromOpen": -4.19
+      "%FromOpen": -6.94
     },
     {
       "Symbol": "NURECA",
@@ -1359,9 +1359,9 @@
       "OpenPrice": 259.9,
       "%ChangePreOpen": 1.7,
       "Matched": false,
-      "LTP": 255.75,
+      "LTP": 259,
       "Volume": null,
-      "%FromOpen": -1.6
+      "%FromOpen": -0.35
     },
     {
       "Symbol": "NILAINFRA",
@@ -1369,9 +1369,9 @@
       "OpenPrice": 10.19,
       "%ChangePreOpen": 1.7,
       "Matched": false,
-      "LTP": 10.06,
+      "LTP": 9.92,
       "Volume": null,
-      "%FromOpen": -1.28
+      "%FromOpen": -2.65
     },
     {
       "Symbol": "SARLAPOLY",
@@ -1379,9 +1379,9 @@
       "OpenPrice": 93.7,
       "%ChangePreOpen": 1.69,
       "Matched": false,
-      "LTP": 92.66,
+      "LTP": 92.5,
       "Volume": null,
-      "%FromOpen": -1.11
+      "%FromOpen": -1.28
     },
     {
       "Symbol": "RATNAVEER",
@@ -1389,9 +1389,9 @@
       "OpenPrice": 157.0,
       "%ChangePreOpen": 1.68,
       "Matched": false,
-      "LTP": 152.9,
+      "LTP": 147.59,
       "Volume": null,
-      "%FromOpen": -2.61
+      "%FromOpen": -5.99
     },
     {
       "Symbol": "PDSL",
@@ -1399,9 +1399,9 @@
       "OpenPrice": 385.0,
       "%ChangePreOpen": 1.68,
       "Matched": false,
-      "LTP": 376.15,
+      "LTP": 376,
       "Volume": null,
-      "%FromOpen": -2.3
+      "%FromOpen": -2.34
     },
     {
       "Symbol": "PRIMESECU",
@@ -1409,9 +1409,9 @@
       "OpenPrice": 298.9,
       "%ChangePreOpen": 1.67,
       "Matched": false,
-      "LTP": 296.6,
+      "LTP": 305.4,
       "Volume": null,
-      "%FromOpen": -0.77
+      "%FromOpen": 2.17
     },
     {
       "Symbol": "BASML",
@@ -1419,9 +1419,9 @@
       "OpenPrice": 28.28,
       "%ChangePreOpen": 1.65,
       "Matched": false,
-      "LTP": 27.97,
+      "LTP": 27.4,
       "Volume": null,
-      "%FromOpen": -1.1
+      "%FromOpen": -3.11
     },
     {
       "Symbol": "IL&FSTRANS",
@@ -1439,9 +1439,9 @@
       "OpenPrice": 97.19,
       "%ChangePreOpen": 1.64,
       "Matched": false,
-      "LTP": 96,
+      "LTP": 94,
       "Volume": null,
-      "%FromOpen": -1.22
+      "%FromOpen": -3.28
     },
     {
       "Symbol": "INTENTECH",
@@ -1449,9 +1449,9 @@
       "OpenPrice": 122.99,
       "%ChangePreOpen": 1.62,
       "Matched": false,
-      "LTP": 121,
+      "LTP": 116.11,
       "Volume": null,
-      "%FromOpen": -1.62
+      "%FromOpen": -5.59
     },
     {
       "Symbol": "VINNY",
@@ -1459,9 +1459,9 @@
       "OpenPrice": 1.26,
       "%ChangePreOpen": 1.61,
       "Matched": false,
-      "LTP": 1.25,
+      "LTP": 1.23,
       "Volume": null,
-      "%FromOpen": -0.79
+      "%FromOpen": -2.38
     },
     {
       "Symbol": "AURUM",
@@ -1469,9 +1469,9 @@
       "OpenPrice": 175.0,
       "%ChangePreOpen": 1.6,
       "Matched": false,
-      "LTP": 172,
+      "LTP": 172.95,
       "Volume": null,
-      "%FromOpen": -1.71
+      "%FromOpen": -1.17
     },
     {
       "Symbol": "HOMEFIRST",
@@ -1479,9 +1479,9 @@
       "OpenPrice": 1274.8,
       "%ChangePreOpen": 1.6,
       "Matched": false,
-      "LTP": 1243.4,
+      "LTP": 1197,
       "Volume": null,
-      "%FromOpen": -2.46
+      "%FromOpen": -6.1
     },
     {
       "Symbol": "BHARTIARTL",
@@ -1489,9 +1489,9 @@
       "OpenPrice": 2107.0,
       "%ChangePreOpen": 1.59,
       "Matched": false,
-      "LTP": 2133.8,
+      "LTP": 2110,
       "Volume": null,
-      "%FromOpen": 1.27
+      "%FromOpen": 0.14
     },
     {
       "Symbol": "HEADSUP",
@@ -1499,9 +1499,9 @@
       "OpenPrice": 10.9,
       "%ChangePreOpen": 1.58,
       "Matched": false,
-      "LTP": 10.52,
+      "LTP": 10.51,
       "Volume": null,
-      "%FromOpen": -3.49
+      "%FromOpen": -3.58
     },
     {
       "Symbol": "NDGL",
@@ -1509,9 +1509,9 @@
       "OpenPrice": 3855.0,
       "%ChangePreOpen": 1.58,
       "Matched": false,
-      "LTP": 3840,
+      "LTP": 3740.7,
       "Volume": null,
-      "%FromOpen": -0.39
+      "%FromOpen": -2.96
     },
     {
       "Symbol": "KESORAMIND",
@@ -1519,9 +1519,9 @@
       "OpenPrice": 5.17,
       "%ChangePreOpen": 1.57,
       "Matched": false,
-      "LTP": 5.17,
+      "LTP": 5.15,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -0.39
     },
     {
       "Symbol": "SOLEX",
@@ -1529,9 +1529,9 @@
       "OpenPrice": 1750.0,
       "%ChangePreOpen": 1.56,
       "Matched": false,
-      "LTP": 1761,
+      "LTP": 1753,
       "Volume": null,
-      "%FromOpen": 0.63
+      "%FromOpen": 0.17
     },
     {
       "Symbol": "AKUMS",
@@ -1539,9 +1539,9 @@
       "OpenPrice": 474.9,
       "%ChangePreOpen": 1.55,
       "Matched": false,
-      "LTP": 467.6,
+      "LTP": 471.15,
       "Volume": null,
-      "%FromOpen": -1.54
+      "%FromOpen": -0.79
     },
     {
       "Symbol": "AAKASH",
@@ -1549,9 +1549,9 @@
       "OpenPrice": 9.2,
       "%ChangePreOpen": 1.55,
       "Matched": false,
-      "LTP": 9.16,
+      "LTP": 9.02,
       "Volume": null,
-      "%FromOpen": -0.43
+      "%FromOpen": -1.96
     },
     {
       "Symbol": "APS",
@@ -1559,9 +1559,9 @@
       "OpenPrice": 483.5,
       "%ChangePreOpen": 1.54,
       "Matched": false,
-      "LTP": 480,
+      "LTP": 477.9,
       "Volume": null,
-      "%FromOpen": -0.72
+      "%FromOpen": -1.16
     },
     {
       "Symbol": "GSS",
@@ -1569,9 +1569,9 @@
       "OpenPrice": 24.6,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 24.5,
+      "LTP": 24.32,
       "Volume": null,
-      "%FromOpen": -0.41
+      "%FromOpen": -1.14
     },
     {
       "Symbol": "TEXMOPIPES",
@@ -1579,9 +1579,9 @@
       "OpenPrice": 54.5,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 53.87,
+      "LTP": 54.19,
       "Volume": null,
-      "%FromOpen": -1.16
+      "%FromOpen": -0.57
     },
     {
       "Symbol": "ATL",
@@ -1589,9 +1589,9 @@
       "OpenPrice": 34.4,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 34.6,
+      "LTP": 33.5,
       "Volume": null,
-      "%FromOpen": 0.58
+      "%FromOpen": -2.62
     },
     {
       "Symbol": "DPSCLTD",
@@ -1599,9 +1599,9 @@
       "OpenPrice": 11.97,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 11.85,
+      "LTP": 11.8,
       "Volume": null,
-      "%FromOpen": -1.0
+      "%FromOpen": -1.42
     },
     {
       "Symbol": "CCCL",
@@ -1609,9 +1609,9 @@
       "OpenPrice": 21.25,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 20.71,
+      "LTP": 20.7,
       "Volume": null,
-      "%FromOpen": -2.54
+      "%FromOpen": -2.59
     },
     {
       "Symbol": "NAHARPOLY",
@@ -1619,9 +1619,9 @@
       "OpenPrice": 318.7,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 322.2,
+      "LTP": 319.8,
       "Volume": null,
-      "%FromOpen": 1.1
+      "%FromOpen": 0.35
     },
     {
       "Symbol": "ASKAUTOLTD",
@@ -1629,9 +1629,9 @@
       "OpenPrice": 488.0,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 479.75,
+      "LTP": 480.95,
       "Volume": null,
-      "%FromOpen": -1.69
+      "%FromOpen": -1.44
     },
     {
       "Symbol": "DALMIASUG",
@@ -1639,9 +1639,9 @@
       "OpenPrice": 334.95,
       "%ChangePreOpen": 1.53,
       "Matched": false,
-      "LTP": 333.65,
+      "LTP": 342.4,
       "Volume": null,
-      "%FromOpen": -0.39
+      "%FromOpen": 2.22
     },
     {
       "Symbol": "TCI",
@@ -1649,9 +1649,9 @@
       "OpenPrice": 1219.0,
       "%ChangePreOpen": 1.52,
       "Matched": false,
-      "LTP": 1205.8,
+      "LTP": 1179.1,
       "Volume": null,
-      "%FromOpen": -1.08
+      "%FromOpen": -3.27
     },
     {
       "Symbol": "PASUPTAC",
@@ -1659,9 +1659,9 @@
       "OpenPrice": 56.1,
       "%ChangePreOpen": 1.52,
       "Matched": false,
-      "LTP": 54.5,
+      "LTP": 53.44,
       "Volume": null,
-      "%FromOpen": -2.85
+      "%FromOpen": -4.74
     },
     {
       "Symbol": "TPHQ",
@@ -1679,9 +1679,9 @@
       "OpenPrice": 249.0,
       "%ChangePreOpen": 1.51,
       "Matched": false,
-      "LTP": 246.29,
+      "LTP": 244.2,
       "Volume": null,
-      "%FromOpen": -1.09
+      "%FromOpen": -1.93
     },
     {
       "Symbol": "GEEKAYWIRE",
@@ -1689,9 +1689,9 @@
       "OpenPrice": 35.01,
       "%ChangePreOpen": 1.51,
       "Matched": false,
-      "LTP": 34.74,
+      "LTP": 33.71,
       "Volume": null,
-      "%FromOpen": -0.77
+      "%FromOpen": -3.71
     },
     {
       "Symbol": "CLEDUCATE",
@@ -1699,9 +1699,9 @@
       "OpenPrice": 89.4,
       "%ChangePreOpen": 1.5,
       "Matched": false,
-      "LTP": 88.4,
+      "LTP": 88.95,
       "Volume": null,
-      "%FromOpen": -1.12
+      "%FromOpen": -0.5
     },
     {
       "Symbol": "ACCURACY",
@@ -1709,9 +1709,9 @@
       "OpenPrice": 6.77,
       "%ChangePreOpen": 1.5,
       "Matched": false,
-      "LTP": 6.58,
+      "LTP": 6.63,
       "Volume": null,
-      "%FromOpen": -2.81
+      "%FromOpen": -2.07
     },
     {
       "Symbol": "AVONMORE",
@@ -1719,9 +1719,9 @@
       "OpenPrice": 17.7,
       "%ChangePreOpen": 1.49,
       "Matched": false,
-      "LTP": 17.71,
+      "LTP": 17.49,
       "Volume": null,
-      "%FromOpen": 0.06
+      "%FromOpen": -1.19
     },
     {
       "Symbol": "JPOLYINVST",
@@ -1729,9 +1729,9 @@
       "OpenPrice": 995.0,
       "%ChangePreOpen": 1.49,
       "Matched": false,
-      "LTP": 985.8,
+      "LTP": 972,
       "Volume": null,
-      "%FromOpen": -0.92
+      "%FromOpen": -2.31
     },
     {
       "Symbol": "LORDSCHLO",
@@ -1739,9 +1739,9 @@
       "OpenPrice": 217.5,
       "%ChangePreOpen": 1.48,
       "Matched": false,
-      "LTP": 216.9,
+      "LTP": 224,
       "Volume": null,
-      "%FromOpen": -0.28
+      "%FromOpen": 2.99
     },
     {
       "Symbol": "NIRAJ",
@@ -1749,9 +1749,9 @@
       "OpenPrice": 29.4,
       "%ChangePreOpen": 1.48,
       "Matched": false,
-      "LTP": 29.65,
+      "LTP": 29.64,
       "Volume": null,
-      "%FromOpen": 0.85
+      "%FromOpen": 0.82
     },
     {
       "Symbol": "MCL",
@@ -1759,9 +1759,9 @@
       "OpenPrice": 49.68,
       "%ChangePreOpen": 1.47,
       "Matched": false,
-      "LTP": 48.98,
+      "LTP": 48.8,
       "Volume": null,
-      "%FromOpen": -1.41
+      "%FromOpen": -1.77
     },
     {
       "Symbol": "TOLINS",
@@ -1769,9 +1769,9 @@
       "OpenPrice": 188.85,
       "%ChangePreOpen": 1.46,
       "Matched": false,
-      "LTP": 186.05,
+      "LTP": 192.1,
       "Volume": null,
-      "%FromOpen": -1.48
+      "%FromOpen": 1.72
     },
     {
       "Symbol": "VIRINCHI",
@@ -1779,9 +1779,9 @@
       "OpenPrice": 28.6,
       "%ChangePreOpen": 1.45,
       "Matched": false,
-      "LTP": 28.14,
+      "LTP": 28.5,
       "Volume": null,
-      "%FromOpen": -1.61
+      "%FromOpen": -0.35
     },
     {
       "Symbol": "TECHLABS",
@@ -1789,9 +1789,9 @@
       "OpenPrice": 462.0,
       "%ChangePreOpen": 1.45,
       "Matched": false,
-      "LTP": 462,
+      "LTP": 447.95,
       "Volume": null,
-      "%FromOpen": 0.0
+      "%FromOpen": -3.04
     },
     {
       "Symbol": "SCHAND",
@@ -1799,9 +1799,9 @@
       "OpenPrice": 182.0,
       "%ChangePreOpen": 1.45,
       "Matched": false,
-      "LTP": 183.1,
+      "LTP": 179.5,
       "Volume": null,
-      "%FromOpen": 0.6
+      "%FromOpen": -1.37
     },
     {
       "Symbol": "MAXESTATES",
@@ -1809,9 +1809,9 @@
       "OpenPrice": 488.55,
       "%ChangePreOpen": 1.44,
       "Matched": false,
-      "LTP": 481.5,
+      "LTP": 477,
       "Volume": null,
-      "%FromOpen": -1.44
+      "%FromOpen": -2.36
     },
     {
       "Symbol": "SILINV",
@@ -1819,9 +1819,9 @@
       "OpenPrice": 646.1,
       "%ChangePreOpen": 1.43,
       "Matched": false,
-      "LTP": 648,
+      "LTP": 615,
       "Volume": null,
-      "%FromOpen": 0.29
+      "%FromOpen": -4.81
     },
     {
       "Symbol": "CONSOFINVT",
@@ -1829,9 +1829,9 @@
       "OpenPrice": 185.74,
       "%ChangePreOpen": 1.43,
       "Matched": false,
-      "LTP": 186,
+      "LTP": 180.97,
       "Volume": null,
-      "%FromOpen": 0.14
+      "%FromOpen": -2.57
     },
     {
       "Symbol": "HMAAGRO",
@@ -1839,9 +1839,9 @@
       "OpenPrice": 31.99,
       "%ChangePreOpen": 1.43,
       "Matched": false,
-      "LTP": 31.39,
+      "LTP": 31.09,
       "Volume": null,
-      "%FromOpen": -1.88
+      "%FromOpen": -2.81
     },
     {
       "Symbol": "AARTISURF",
@@ -1849,9 +1849,9 @@
       "OpenPrice": 480.0,
       "%ChangePreOpen": 1.42,
       "Matched": false,
-      "LTP": 467.45,
+      "LTP": 464.75,
       "Volume": null,
-      "%FromOpen": -2.61
+      "%FromOpen": -3.18
     },
     {
       "Symbol": "SETCO",
@@ -1859,9 +1859,9 @@
       "OpenPrice": 18.74,
       "%ChangePreOpen": 1.41,
       "Matched": false,
-      "LTP": 18.54,
+      "LTP": 18.59,
       "Volume": null,
-      "%FromOpen": -1.07
+      "%FromOpen": -0.8
     },
     {
       "Symbol": "FIBERWEB",
@@ -1869,9 +1869,9 @@
       "OpenPrice": 43.3,
       "%ChangePreOpen": 1.41,
       "Matched": false,
-      "LTP": 42.91,
+      "LTP": 42.75,
       "Volume": null,
-      "%FromOpen": -0.9
+      "%FromOpen": -1.27
     },
     {
       "Symbol": "HITECHGEAR",
@@ -1879,9 +1879,9 @@
       "OpenPrice": 785.0,
       "%ChangePreOpen": 1.41,
       "Matched": false,
-      "LTP": 751.2,
+      "LTP": 774.9,
       "Volume": null,
-      "%FromOpen": -4.31
+      "%FromOpen": -1.29
     },
     {
       "Symbol": "TREL",
@@ -1889,9 +1889,9 @@
       "OpenPrice": 29.68,
       "%ChangePreOpen": 1.4,
       "Matched": false,
-      "LTP": 29.5,
+      "LTP": 30.64,
       "Volume": null,
-      "%FromOpen": -0.61
+      "%FromOpen": 3.23
     },
     {
       "Symbol": "LOTUSEYE",
@@ -1899,9 +1899,9 @@
       "OpenPrice": 133.0,
       "%ChangePreOpen": 1.4,
       "Matched": false,
-      "LTP": 131.85,
+      "LTP": 125.3,
       "Volume": null,
-      "%FromOpen": -0.86
+      "%FromOpen": -5.79
     },
     {
       "Symbol": "SRPL",
@@ -1929,9 +1929,9 @@
       "OpenPrice": 36.99,
       "%ChangePreOpen": 1.37,
       "Matched": false,
-      "LTP": 36.48,
+      "LTP": 36,
       "Volume": null,
-      "%FromOpen": -1.38
+      "%FromOpen": -2.68
     },
     {
       "Symbol": "FABTECH",
@@ -1939,9 +1939,9 @@
       "OpenPrice": 239.85,
       "%ChangePreOpen": 1.37,
       "Matched": false,
-      "LTP": 238.41,
+      "LTP": 236.8,
       "Volume": null,
-      "%FromOpen": -0.6
+      "%FromOpen": -1.27
     },
     {
       "Symbol": "VSTL",
@@ -1949,9 +1949,9 @@
       "OpenPrice": 144.8,
       "%ChangePreOpen": 1.36,
       "Matched": false,
-      "LTP": 145.9,
+      "LTP": 145,
       "Volume": null,
-      "%FromOpen": 0.76
+      "%FromOpen": 0.14
     },
     {
       "Symbol": "TGBHOTELS",
@@ -1959,9 +1959,9 @@
       "OpenPrice": 12.08,
       "%ChangePreOpen": 1.34,
       "Matched": false,
-      "LTP": 11.96,
+      "LTP": 11.52,
       "Volume": null,
-      "%FromOpen": -0.99
+      "%FromOpen": -4.64
     },
     {
       "Symbol": "SHAREINDIA",
@@ -1969,9 +1969,9 @@
       "OpenPrice": 191.2,
       "%ChangePreOpen": 1.34,
       "Matched": false,
-      "LTP": 187.9,
+      "LTP": 185,
       "Volume": null,
-      "%FromOpen": -1.73
+      "%FromOpen": -3.24
     },
     {
       "Symbol": "RUSTOMJEE",
@@ -1979,9 +1979,9 @@
       "OpenPrice": 573.0,
       "%ChangePreOpen": 1.34,
       "Matched": false,
-      "LTP": 575.4,
+      "LTP": 568,
       "Volume": null,
-      "%FromOpen": 0.42
+      "%FromOpen": -0.87
     },
     {
       "Symbol": "V2RETAIL",
@@ -1989,9 +1989,9 @@
       "OpenPrice": 2529.0,
       "%ChangePreOpen": 1.34,
       "Matched": false,
-      "LTP": 2468.5,
+      "LTP": 2441,
       "Volume": null,
-      "%FromOpen": -2.39
+      "%FromOpen": -3.48
     },
     {
       "Symbol": "STARCEMENT",
@@ -1999,9 +1999,9 @@
       "OpenPrice": 263.2,
       "%ChangePreOpen": 1.33,
       "Matched": false,
-      "LTP": 264.25,
+      "LTP": 252.55,
       "Volume": null,
-      "%FromOpen": 0.4
+      "%FromOpen": -4.05
     }
   ]
 }
